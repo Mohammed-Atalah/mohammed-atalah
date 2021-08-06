@@ -4,7 +4,7 @@
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/AtalahMohammed?style=social)
 
-Hi, as you read above my name is Mohammed Eyad Atalah and I'm 15 years old. I have been learning in IT field since I was 11. I started by learning design. In 2019, My passion started to learn programming by my participating in Summer Code after that I wanted to develop my skills in programming so I applied for Code for Palestine, and thanks to God! I have been accepted and here I am a Code for Palestine student.
+Hi, as you read above my name is Mohammed Eyad Atalah and I'm 16 years old. I have been learning in IT field since I was 11. I started by learning design. In 2019, My passion started to learn programming by my participating in Summer Code after that I wanted to develop my skills in programming so I applied for Code for Palestine, and thanks to God! I have been accepted and here I am a Code for Palestine student.
 
 
 ---
